@@ -12,12 +12,12 @@ var friendsArray = [
             5,
             1,
             4,
-            4,
+            1,
             5,
             1,
-            2,
+            1,
             5,
-            4,
+            1,
             1
           ]
       },
@@ -28,13 +28,13 @@ var friendsArray = [
             1,
             1,
             1,
-            4,
             5,
             5,
-            2,
             5,
-            4,
-            5
+            1,
+            5,
+            5,
+            1
           ]
       },
       {
@@ -44,13 +44,45 @@ var friendsArray = [
             3,
             3,
             4,
-            4,
+            1,
             5,
             3,
-            2,
+            5,
+            3,
+            1,
+            1
+          ]
+      },
+      {
+        "name":"Soda Popinski",
+        "photo":"https://cdn.shopify.com/s/files/1/0073/2452/products/JesseRiggle_PunchOut_SodaPopinski_1024x1024.jpg?v=1489685985",
+        "scores":[
+            3,
             3,
             4,
-            3
+            1,
+            5,
+            3,
+            1,
+            3,
+            5,
+            1
+          ]
+      },
+      {
+        "name":"Mike Tyson",
+        "photo":"http://assets.fightland.com/content-images/contentimage/56487/punchout333.jpg",
+        "scores":[
+            3,
+            3,
+            4,
+            1,
+            5,
+            3,
+            1,
+            3,
+            1,
+            5
           ]
       }
   ];
